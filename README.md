@@ -96,3 +96,8 @@ This is where you can communicate with APIs, including OpenAI APIs.
 Feel free to add more routes as you progress through the challenges.
 
 The first route `get_response` is provided as an example, and you can follow the same structure to add more routes.
+
+## Challenge
+
+### Challenge 1
+OpenAI の Chat Completions API を使用し、gpt-4o モデルを活用した最小限のテキストベースのチャットボットを構築する。

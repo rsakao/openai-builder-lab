@@ -6,5 +6,5 @@ You are a helpful travel assistant.
 `
 // Initial message that will be displayed in the chat
 export const INITIAL_MESSAGE = `
-Hi, how can I help you for your upcoming trip?
+こんにちは。今度の旅行で何かお手伝いできることはありますか？
 `
