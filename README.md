@@ -99,5 +99,13 @@ The first route `get_response` is provided as an example, and you can follow the
 
 ## Challenge
 
+### Usage
+`starting_point/frontend/.env` に以下のAPIキーを記述する
+OPENAI_API_KEY=
+SERPAPI_API_KEY=
+
 ### Challenge 1
 OpenAI の Chat Completions API を使用し、gpt-4o モデルを活用した最小限のテキストベースのチャットボットを構築する。
+
+### Challenge 2
+ユーザーにより適切な回答を提供するために、ホテルの選択肢やランドマークの詳細情報を取得できるようにする。
